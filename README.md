@@ -1,2 +1,4 @@
 # lantern-forum-ukraine
-Lantern user forum for the Ukraine
+Forum for Lantern users in the Ukraine!
+
+Please [join the discussion](https://github.com/getlantern/lantern-forum-ukraine/discussions)!
